@@ -9,6 +9,10 @@ tour.name = Analog Factory
 
 ## Skin
 
+### Multiline Text
+HTMLText_20EFC462_326B_99F9_4196_5D2D75FC851C.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:left;font-size:6px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-size:6px;"><B>QUATTRO</B></SPAN></SPAN></DIV><p STYLE="margin:0; line-height:6px;"><BR STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:12px;font-family:Arial, Helvetica, sans-serif;"/></p><p STYLE="margin:0; line-height:6px;"><BR STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:12px;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:justify;font-size:6px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-line;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#cccccc;font-size:6px;font-family:Tahoma, Geneva, sans-serif;">Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem. Nulla consequat massa quis enim. </SPAN></SPAN></DIV></div>
+HTMLText_2349FA37_323A_6947_41AD_25E5495C7729.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:left;font-size:53px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-size:53px;"><B>QUATTRO</B></SPAN></SPAN></DIV><p STYLE="margin:0; line-height:33px;"><BR STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:12px;font-family:Arial, Helvetica, sans-serif;"/></p><p STYLE="margin:0; line-height:12px;"><BR STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:12px;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:justify;font-size:14px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-line;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#cccccc;font-size:14px;font-family:Tahoma, Geneva, sans-serif;">Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem. Nulla consequat massa quis enim. </SPAN></SPAN></DIV></div>
+
 ### Label
 Label_0F052DD6_1E28_FC45_418A_62727B2B793C.text = ANALOG FACTORY
 Label_0F052DD6_1E28_FC45_418A_62727B2B793C_mobile.text = ANALOG FACTORY
@@ -33,6 +37,8 @@ panorama_11BA5A14_1854_AA85_41B2_1809091EDFE9.label = GS__6439
 panorama_11BA71EF_1854_B983_41B3_D83C9667C17B.label = GS__6438
 panorama_137EBCD0_1855_EF9D_4185_A78953966828.label = GS__6416
 video_11BE2834_1DD8_E3C5_41B9_57C8F55FACA4.label = GS__6452 (VR2 Edit 1)
+video_3CA9D423_322D_F97F_41BE_47540872225F.label = quattro
+video_3CCCE9F3_3226_EADF_41AB_78AEE885A089.label = quattro
 
 ## Action
 
